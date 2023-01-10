@@ -40,7 +40,10 @@ Github link _([https://github.com/salamj/ugrpm](https://github.com/salamj/ugrpm)
   
 
 *  _Import tables from sql directory to your database_
-
+*  _Use composet to add UGRPM to your project:
+ ```sh
+ composer require jsalam/ugrpm
+ ```
 *  _Add namespace where you want to use UGRPM, Group or Role classes **only** what you need._
 
 ```php
