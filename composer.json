@@ -1,0 +1,26 @@
+{
+    "name": "jsalam/ugrpm",
+    "description": "Manage users and groups roles and permessions",
+    "keywords": ["users", "groups", "roles", "permessions", "php"],
+    "homepage": "https://aljehni.com/libraries/ugrpm",
+    "license": "MIT",
+    "type": "library",
+    "require": {
+        "php": ">=8.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9"
+    },
+    "authors": [
+        {
+            "name": "salam aljehni",
+            "email": "salamj@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Jsalam\\UGRPM\\": "src"
+        }
+    },
+    "minimum-stability": "beta"
+}
