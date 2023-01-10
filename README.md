@@ -40,7 +40,7 @@ Github link _([https://github.com/salamj/ugrpm](https://github.com/salamj/ugrpm)
   
 
 *  _Import tables from sql directory to your database_
-*  _Use composet to add UGRPM to your project:
+*  Add UGRPM to composer.json then update.
  ```sh
  composer require jsalam/ugrpm
  ```
