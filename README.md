@@ -27,7 +27,7 @@ Library home: _([https://aljehni.com/ugrpm/](https://www.aljehni.com/ugrpm))_
 
   
 
-Github link _([https://aljehni.com/ugrpm/](https://www.aljehni.com/ugrpm))_
+Github link _([https://github.com/salamj/ugrpm](https://github.com/salamj/ugrpm))_
 
   
 
