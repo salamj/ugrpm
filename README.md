@@ -94,7 +94,7 @@ If Role not exists in the database and you want to create one **do not pass**  `
 After that you can work with `$role` object by it's methods:
 
 ```php
-$id = $role->getId(); // id in database
+$id = $role->getId(); // 3
 $roleRole = $role->getRole(); //"App\Content@create"
 $class = $role->getRoleClass(); // "App\Content"
 $method = $role->getRoleMethod();// "create"
@@ -142,7 +142,7 @@ If group not exists in the database and you want to create one **do not pass**  
 After that you can work with `$group` object by it's methods:
 
 ```php
-$id = $group->getId(); // id in database
+$id = $group->getId(); // 11
 $name = $grouo->getGroupName(); //"Editors"
 $desc = $group->getDescription(); // "Editors Group"
 // Change group properties
