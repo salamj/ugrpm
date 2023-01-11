@@ -2,7 +2,7 @@
     "name": "jsalam/ugrpm",
     "description": "Manage users and groups roles and permessions",
     "keywords": ["users", "groups", "roles", "permessions", "php"],
-    "homepage": "https://aljehni.com/libraries/ugrpm",
+    "homepage": "https://aljehni.com/ugrpm/",
     "license": "MIT",
     "type": "library",
     "require": {
