@@ -3,7 +3,7 @@
 
   
 
-A simple and easy to use PHP object oriented lirbary to manage (Users,Groups,Roles).
+A simple and easy to use PHP object oriented library to manage (Users,Groups,Roles).
 
   
 
