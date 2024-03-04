@@ -19,11 +19,11 @@ You **must** have a database connection and pass it as PDO connection object to 
 
   
 
-Built by Salam Aljehni _([https://aljehni.com](https://www.aljehni.com))_
+Built by Salam Aljehni _([https://aljehni..github.io](https://aljehni.github.io))_
 
   
 
-Library home: _([https://aljehni.com/ugrpm/](https://www.aljehni.com/ugrpm))_
+Library home: _([https://aljehni.github.io/ugrpm/](https://aljehni.github.io/ugrpm/))_
 
   
 
