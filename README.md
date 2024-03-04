@@ -19,7 +19,7 @@ You **must** have a database connection and pass it as PDO connection object to 
 
   
 
-Built by Salam Aljehni _([https://aljehni..github.io](https://aljehni.github.io))_
+Built by Salam Aljehni _([https://aljehni.github.io](https://aljehni.github.io))_
 
   
 
