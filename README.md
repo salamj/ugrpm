@@ -373,4 +373,4 @@ Catched when trying to add role(s) to user(s) where already have that role(s).
 
 ## Credit
 
-Salam Aljehni, salam[at]gmail.com, link: (aljehni.com)[https://aljehni.com]
+Salam Aljehni, salam[at]gmail.com, link: (aljehni.github.io)[https://aljehni.github.io]
